@@ -1,4 +1,4 @@
-# uber4developer
+# uber-clone-backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
@@ -16,8 +16,8 @@ Uber4Developer
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/uber4developer.git
-cd uber4developer
+git clone https://github.com/amitdubeyup/uber-clone-backend.git
+cd uber-clone-backend
 
 # Install dependencies
 npm install
@@ -50,7 +50,7 @@ npm start
 ## 📁 Project Structure
 
 ```
-uber4developer/
+uber-clone-backend/
 ├── package.json
 ├── .env.example
 ├── README.md
